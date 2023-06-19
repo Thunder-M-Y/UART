@@ -12,3 +12,7 @@ esp_err_t u_uart_init(void);
 void u_send(const void *data,size_t length);
 //接收数据
 size_t u_recv( void *data,size_t length);
+
+
+
+//测试同步--------------------------------------------------------------------------测试同步
